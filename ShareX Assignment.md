@@ -2,7 +2,7 @@
 
 ## Take advantage of the new feature where images can now be aligned left, right, and center when combined into one
 
-## Learn the difference between using green check mark to save changes and the Save icon
+### Additionally, learn the difference between using green check mark to save changes and the Save icon
 
 The Image combiner tool was available before, but it wasn’t possible to align
 added images differently, there was only center alignment. Use the *Image
@@ -16,14 +16,16 @@ is also possible to move them up and down in the frame itself by drag and
 dropping them inside of it. From the *Combine orientation* dropdown list select
 whether the images will be arranged vertically or horizontally. The *Image
 alignment* dropdown list enables top, right, or left alignment, depending on the
-wanted output. The Space between images is calculated in pixels and can be
+wanted output. The *Space between images* is calculated in pixels and can be
 entered either by using up and down arrow buttons, or manually (typing it in the
 box). After arranging the images and the wanted output, click the bottom button
 – *Combine images and save/upload depending on after capture settings*. The
 application will display the combined images as one. Depending on the personal
 settings, the image will either get saved automatically or will require
-confirmation that the output is ok. If it requires confirmation, click either
-the green check mark or the Save icon in the heading bar to save the changes.
+confirmation that the output is ok.
+
+If it requires confirmation, click either the green check mark or the Save icon
+in the heading bar to save the changes.
 
 ![A sunset over some water Description automatically generated](image.png)
 
